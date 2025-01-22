@@ -1,0 +1,198 @@
+Scarcity from a customer’s standpoint
+When something is scarce, there is not enough of it to fulfill everyone’s needs and wants. Theoretically, we humans, have unlimited and unsurmountable needs and wants. Behavioral economics is all about trading and economic activity which are caused by scarcity. Scarce resources that force you to make tradeoffs, in many cases, a tradeoff is what determines whether a consumer uses your product or not.
+
+Option 1: use or pay for your product or service
+
+Option 2: use or pay for someone ELSE’s product or service
+
+Consumers go through many factors such as their:
+
+time
+
+energy
+
+money attention
+
+space (physical space around you)
+
+manpower
+
+materials
+
+mental capacity
+
+knowledge
+
+and many more
+
+Within any market you step into as an entrepreneur or founder, scarcity is usually caused by:
+
+demand-induced: too much demand leads to overconsumption of resource
+
+Example: Imagine launching a startup with a highly popular mobile app that skyrockets in user adoption faster than anticipated. This takes a toll on the server and computing infrastructure. Despite the efforts to scale, it struggles to meet high demands. This demand-induced scarcity may force the company to increase their costs to upgrade infrastructure or risk losing users to competitors.
+
+supply-induced scarcity: too little supply or your product or service leads to a shortage
+
+Example: Imagine launching a startup that starts producing electric bikes faces supply-induced scarcity due to a global shortage of lithium-ion batteries, which are essential for powering the bikes. This results in production delays, inability to fulfill orders, and missed revenue opportunities.
+
+structural scarcity: occurs when people have less access to resources than others
+
+Example: A startup based in a developing country faces structural scarcity when trying to raise venture capital. While startups in tech hubs like Silicon Valley have easy access to a network of angel investors, venture capital firms, and accelerators, this startup lacks similar access due to its geographical location. Despite having an innovative product and a strong team, they are unable to secure the necessary funding to grow their business.
+
+Utility of products and services
+The utility encompasses the benefits that a consumer receives for using a product or service For example, a customer can experience physical benefits such as a new t-shirt makes them feel good about their looks or emotional feelings like being able to entertaining or high-value content on certain platforms.
+
+Even when two people buy the same product or service, they are unlikely to experience the same feeling when using your product. Each consumer and customer is a unit of analysis.
+
+Each product or service has 4 crucial components, according to behavioral economics:
+
+form utility: How well does a product solve a customer’s needs or pain points? (e.g. reducing the price of a good/service to an affordable level or providing a unique value that truly resolves/lightens a customer’s pain points)
+
+time utility: does the availability of a product match when the customer really needs it? (e.g.)
+
+place utility: How accessible is your good or service? Is it in a suitable location such as a website, mobile app, or even a physical location?
+
+possession utility: How useful or convenient it is for a consumer to own? e.g. will it take too much space in a consumer’s livable space or device?
+
+“Price is what you pay; value is what you get.”
+
+- Warren Buffet, American investor and businessman
+
+Rational choice
+Consumers and customers act primarily on self-interest
+
+Customers have a clear understanding of what they want, often seeking specific outcomes like better quality or increased wealth.
+
+Customers tend to prioritize their preferences, ranking their options in order of importance.
+
+They make rational decisions based on these rankings, choosing from the various options available to them.
+
+Customers aim to get the most value or benefit possible from the products or services they select.
+
+Their preferences are usually consistent, making their behavior relatively predictable.
+
+Customers avoid obstacles that hinder them from obtaining their preferred choice.
+
+When presented with different choices, customers typically choose the one they believe will provide the best overall outcome for them.
+
+Marginalism
+Contrary to popular belief, customers make economic decisions bit by bit instead of all at once. As an entrepreneur, your job is to predict the next decision the consumer will make.
+
+Consumers stop additional purchases when their perceived costs exceed the gains or use.
+
+Consumers suffer from a diminishing marginal utility/gain and increasing marginal cost.
+
+Let’s say that you are eating pizzas. The first slice might taste amazing, providing a high level of satisfaction. The second slice is still enjoyable but slightly less satisfying. By the third or fourth slice, you might start to feel full, and the enjoyment diminishes further. By the fifth slice, you may not even want it, as the added utility is minimal or even negative. Each additional slice gives you less satisfaction than the one before. The more slices of pizza you eat, you risk higher high issues, so the marginal cost increases with each one.
+
+Output image
+The same goes for you as an entrepreneur. Your first million will be very rewarding. However, each additional million dollars you make will feel less rewarding. In other words, the marginal value of each additional million we make gets smaller as your net worth increases.
+
+
+Opportunity Cost
+Consumers constantly are deciding between which opportunities to go after and which ones to give up. After all, consumers can only be at one place at one time. If you can do more than that, I truly believe you are a superhero.
+
+Consumers make this decision based on which option offers the greatest benefits and the opportunities given up is called opportunity cost.
+
+Ensure that your product or service offers greater value than its opportunity cost
+
+Let's say you're an entrepreneur offering an online project management software targeted at small business owners. When a business owner considers subscribing to your software, they face an opportunity cost: they could either invest in your software or spend that money on something else, like marketing tools, employee training, or another business expense.
+
+For your product to be chosen, it must provide value exceeding the opportunity cost. Suppose your software can save the business owner time, improve team productivity, and help deliver projects more efficiently. In that case, the value it offers will be greater than the benefits it would have gained from spending on other tools or resources.
+
+Specialization
+Should your team specialize?
+
+Pros
+employees are more focused on what they are best at
+
+achieves mass production and greater results compared to unspecialized workers or employees
+
+your team becomes more efficient, leading to less scarcity and waste of resources
+
+Cons
+employees experience tasks with low-degree of variability and can get bored
+
+employees become more vulnerable when their area of expertise gets interrupted
+
+inflexible team and unable to move agile in a market with changing demands
+
+Factors of Production
+Traditional economics has taught us that the building blocks of production include:
+
+Land: the Earth’s natural resources (both non-renewable and renewable)
+
+Labor: all the available people to work
+
+Capital: resources used to produce even more resources (e.g. offices, equipment, education institutions, supplies, etc)
+
+Entrepreneurship: using the other three factors to bolster the economy by creating new businesses to employ people and produce things
+
+In the modern age of startups and entrepreneurship, human capital is heavily considered to be another key. For example, skill, talent, and innovation development:
+
+skill development drives innovation
+
+talent is a competitive advantage over other firms
+
+skilled workers can perform more tasks effectively, making fewer mistakes, and drive improvements in productivity
+
+skilled individuals are more likely to identify market opportunities, innovate, and drive your firm even further
+
+Companies like Meta, Amazon, Microsoft, Apple, Alphabet (parent company of Google) are prime examples of how investing in human capital pays off. They offer continuous learning opportunities, support employee skill development, and have created environments where innovation thrives. Their success isn't just due to physical capital or land; it stems from the highly skilled talent they have cultivated.
+
+
+[ShutterStock]
+In short, in today’s entrepreneurial landscape, human capital development is not just another factor—it’s a multiplier that amplifies the power of land, labor, and capital. By prioritizing skill and talent development, entrepreneurs can build more resilient, innovative, and competitive businesses.
+
+
+Subscribed
+
+Transaction costs
+The sad truth is that transaction are not free in the world of startups. One clear, perhaps most obvious, are financial tools like Stripe which charge roughly 5% platform fee for transacting your money. However, “transactions” happen all the time in startups and entrepreneurship, both internally and externally.
+
+Internal
+Planning: research and development (R&D), testing, designing, prototypes, samples, etc.
+
+Administrating: strategizing, budgeting, accounting, reporting, management
+
+Human Resources (HR): recruiting, training, resolving conflicts
+
+Post-sale Services: technical support, warranties, product improvement iteration, customer-centricity programs like loyalty
+
+External
+Financial Costs
+
+Bank Costs: costs from banking services like transaction fees, loan interest, and maintenance of accounts. For international transactions, fees can increase significantly due to foreign exchange rates, wire transfers, and cross-border payment processing.
+
+Currency Exchange: For businesses operating internationally, fluctuating currency exchange rates can lead to unexpected costs. Exchange fees and volatility can impact profit margins, especially in industries like import/export or global SaaS services.
+
+Legal Fees: As a founder or entrepreneur, you often require legal expertise to draft contracts, negotiate deals, protect intellectual property, and ensure regulatory compliance. This can range from hourly fees for legal advice to larger costs in cases of litigation or international agreements.
+
+Insurance: From liability and property insurance to protecting intellectual property or insuring against natural disasters, businesses need to protect themselves from potential risks. The costs of insuring a business adequately can add up, especially in industries with high liability.
+
+Marketing Costs
+
+Market Research: Investing in surveys, focus groups, or third-party data can give valuable insights, but these services come at a cost. Failing to properly understand market trends can lead to expensive mistakes in product development and positioning.
+
+Branding: Developing a professional brand identity, including logo design, brand messaging, and visual assets, often requires hiring branding experts or agencies. The costs can range widely depending on the level of expertise and design you need. Some of the most famous brands pay hundreds of millions or even billions to develop their brand such as their logo, slogan, and identity.
+
+Advertisement Campaigns: Advertising—whether through traditional media like TV, print, or digital platforms such as Google, Facebook, and Instagram—can be costly. Entrepreneurs must allocate budgets for these campaigns and carefully track their ROI to ensure they are reaching their target audience effectively.
+
+Social Media: While organic social media marketing may seem free, successful strategies often require investment in content creation, paid promotions, and analytics tools. Running paid social campaigns or hiring influencers to promote products can be significant costs that need to be managed strategically.
+
+Transportation Costs
+
+Packaging: Proper packaging is crucial to protect products during shipment and to enhance customer experience. For businesses shipping physical goods, packaging can range from simple materials to customized, branded solutions, which can be quite expensive.
+
+Storing Inventory: Storing unsold inventory in warehouses or distribution centers incurs costs for rent, utilities, and staff management. Additionally, poor inventory management can lead to excess stock, raising storage costs and tying up capital in unsold goods.
+
+Moving Products or Services: Whether it's shipping physical products to customers or moving raw materials between manufacturing facilities, transportation expenses—such as freight, delivery fees, and fuel—play a huge role in the cost structure. For businesses with international customers, logistics costs increase substantially due to customs, tariffs, and longer shipping times.
+
+Retail Costs
+
+Reaching Customers: If you're running an e-commerce business, costs may include online marketplace fees, third-party sellers, or running your own digital storefront, which requires hosting, platform management, and website maintenance. Brick-and-mortar retailers face real estate expenses, utility bills, and the cost of hiring staff to handle customer interactions.
+
+Discounts: Offering discounts is a common marketing strategy to attract customers or move excess inventory. While it can increase sales volume, offering discounts too frequently or aggressively may erode profit margins and diminish perceived value of the product.
+
+Product Trials: Providing free samples or trial versions of products or services is a great way to convert prospects into paying customers, but it adds direct costs. Sampling programs, beta trials, or offering trial periods for subscription services can temporarily reduce profits with the hope of long-term gains from customer conversion.
+
+We hope that you have enjoyed this guide. I would greatly appreciate it if you liked this article as we have much more amazing content coming soon. See you next time!
